@@ -24,7 +24,7 @@ Add any other context or screenshots about the pull request here.
 -->
 
  - [ ] I confirm that this pull request is relevant to the scope of this project. If you know that upstream projects are the cause of this problem, please file the pull request there.
- - [ ] I confirm that this pull request has been tested thoroughly and to the best of my knowledge that additional unintended problems do not arise.
+ - [ ] I confirm that this pull request has been tested thoroughly and to the best of my knowledge that additional unintended problems do not arise. Manual human confirmation and review were performed if AI/LLM agents were used.
  - [ ] I confirm that the style of the changed code conforms to the overall style of the project.
  - [ ] I confirm that I have read other open and closed pull requests and that duplicates do not exist.
  - [ ] I confirm that I have justified the need for this pull request and that the changes reflect the fix for the specified problem.
