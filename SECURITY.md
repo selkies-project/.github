@@ -10,9 +10,9 @@ Please be aware that we cannot take responsibility for vulnerabilities found in 
 
 If you believe you have found a security vulnerability in any Selkies-owned repository, please report it to us through coordinated disclosure.
 
-Please do not report security vulnerabilities through public GitHub issues, discussions, pull requests, or conversation on our Discord or Discourse platforms.
+Please do not report security vulnerabilities through public GitHub issues, discussions, pull requests, or conversations on our public Discord or Discourse platforms.
 
-Instead, please use the Security Advisories capabilities within each GitHub repository, or email security[@]linuxserver.io, with a subject line that includes `[security]`. If your email subject is not properly formed, it will not be processed. Alternatively, please write a direct message to one of the moderators in [Discord](https://discord.gg/wDNGDeSW5F) to reach out.
+Instead, please use the Security Advisories capabilities within each GitHub repository, and email security[@]linuxserver.io, with a subject line that includes `[security]`. If your email subject is not properly formed, it will not be processed. Alternatively, please write a direct message to one of the moderators in [Discord](https://discord.gg/wDNGDeSW5F) to reach out.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
