@@ -12,7 +12,7 @@ If you believe you have found a security vulnerability in any Selkies-owned repo
 
 Please do not report security vulnerabilities through public GitHub issues, discussions, pull requests, or conversations on our public Discord or Discourse platforms.
 
-Instead, please use the Security Advisories capabilities within each GitHub repository, and email security[@]linuxserver.io, with a subject line that includes `[security]`. If your email subject is not properly formed, it will not be processed. Alternatively, please write a direct message to one of the moderators in [Discord](https://discord.gg/wDNGDeSW5F) to reach out.
+Instead, please use the Security Advisories capabilities within each GitHub repository, which is the preferred route. You can also email security[@]linuxserver.io, with a subject line that includes `[security]`; if your email subject is not properly formed, it will not be processed. Alternatively, please write a direct message to one of the moderators in [Discord](https://discord.gg/wDNGDeSW5F) to reach out.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
