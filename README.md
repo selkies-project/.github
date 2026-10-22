@@ -8,6 +8,7 @@ wherever a repository does not carry its own:
 
 | File | Purpose |
 | --- | --- |
+| [`GOVERNANCE.md`](GOVERNANCE.md) | The maintainers and how changes are made. |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | The code of conduct. |
 | [`SECURITY.md`](SECURITY.md) | How to report a vulnerability privately. |
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | The bug report and enhancement request templates. |
