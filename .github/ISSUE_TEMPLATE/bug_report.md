@@ -44,6 +44,11 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 -->
 
+**Why an issue rather than a pull request?**
+<!--
+With AI coding assistants, many fixes are within reach of the person who found the problem, and a pull request is usually the fastest way to one. AI-assisted pull requests are welcome, as long as you have reviewed and tested them yourself, as the pull request template asks. If you are opening an issue instead, tell us why: for example, the cause is still unclear, reproducing it needs hardware or access you do not have, or it needs a maintainer's decision first.
+-->
+
  - [ ] I confirm that this issue is relevant to the scope of this project. If you know that upstream projects are the cause of this problem, please raise the issue there.
  - [ ] I confirm that I have read other open and closed issues and that duplicates do not exist.
  - [ ] I confirm that the issue is easily reproducible and explained thoroughly.
